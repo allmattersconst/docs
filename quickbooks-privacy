@@ -1,0 +1,153 @@
+All Matters Construction – Privacy Policy for Internal Application
+
+Last Updated: 11/25/2025
+
+This Privacy Policy describes how the internal software application (“Application”) developed and maintained by All Matters Construction (“Company”, “we”, “our”) collects, uses, stores, and protects information accessed through QuickBooks Online and other internal systems. This Application is for internal use only and is not provided to external users or customers.
+
+1. Scope of This Policy
+
+This Privacy Policy applies solely to the internal reporting Application used by authorized employees of All Matters Construction. It does not apply to the public website, customer systems, or any third-party products outside the Company’s internal environment.
+
+2. Information We Access
+
+The Application retrieves read-only data from QuickBooks Online and internal systems for reporting and dashboard creation. The categories of data accessed may include:
+
+2.1 Financial and Operational Data
+
+Invoices
+
+Bills
+
+Expenses
+
+Payments made
+
+Estimates
+
+Job and project details
+
+2.2 Customer Data
+
+Customer names
+
+Contact information (address, email, phone)
+
+Job-related customer information
+
+2.3 Data We Do NOT Access
+
+The Application does not access:
+
+Employee data
+
+Payroll information
+
+Sensitive financial data such as bank account numbers
+
+Tax filing data
+
+Social Security numbers
+
+Vendor bank information
+
+3. How We Use the Information
+
+The Application uses retrieved data exclusively for internal operational purposes, including:
+
+Dashboard reporting
+
+Job performance analysis
+
+Financial overview and trend monitoring
+
+Business decision support
+
+Power BI internal reporting
+
+Data is never used for marketing, sales, or advertising.
+
+4. Data Storage and Retention
+4.1 Storage Location
+
+Data is stored in a local encrypted database on an internal Windows system within the Company’s network.
+
+No cloud storage is used.
+
+4.2 Retention
+
+Financial and project data may be stored indefinitely for reporting and historical analysis.
+
+Only the most recent retrieval logs (success/failure messages) are stored; logs do not contain sensitive financial details.
+
+5. Data Sharing
+
+The Company does not share data retrieved by the Application with:
+
+External third parties
+
+Vendors or contractors
+
+External analytics or marketing companies
+
+Intuit outside the standard API flow
+
+The ONLY internal system that consumes this data is Power BI, running entirely inside the Company’s environment.
+
+No data ever leaves internal infrastructure unless legally required.
+
+6. Security Measures
+
+All Matters Construction implements industry-standard security measures to protect Application data, including:
+
+6.1 Technical Security
+
+Encrypted local database
+
+Secure OAuth 2.0 integration with QuickBooks
+
+HTTPS/TLS for all API communication
+
+Restricted access to the Application server
+
+No public network exposure
+
+6.2 Access Control
+
+Access limited to Owners, Project Managers, the General Manager, and IT
+
+Local authentication within the Application
+
+Permissions mirror users' existing QuickBooks Online access levels
+
+IT has exclusive access to stored OAuth tokens
+
+6.3 Monitoring
+
+Minimal logs are stored (success/error retrieval logs)
+
+Logs do NOT contain personally sensitive data
+
+Usage may be monitored for security and compliance
+
+7. User Responsibilities
+
+Authorized users must:
+
+Maintain the confidentiality of their login credentials
+
+Use the Application only for legitimate business purposes
+
+Follow Company IT and security policies
+
+Report any suspected security incidents to IT immediately
+
+8. Changes to This Privacy Policy
+
+The Company may update this Privacy Policy at any time. Any changes will be reflected with an updated “Last Updated” date. Continued use of the Application constitutes acceptance of any revised terms.
+
+9. Contact Information
+
+If you have questions about this Privacy Policy or need assistance, contact:
+
+All Matters Construction – IT Department
+Email: it@allmattersgc.com
