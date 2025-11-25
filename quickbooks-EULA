@@ -1,0 +1,116 @@
+All Matters Construction – Internal Application End User License Agreement (EULA)
+
+Last Updated: 11/22/2025
+
+This End User License Agreement (“Agreement”) governs the use of the internal software application (“Application”) developed and maintained by All Matters Construction (“Company”). By accessing or using the Application, you (“User”) agree to be bound by this Agreement.
+
+1. Purpose of the Application
+
+The Application is an internal tool designed to retrieve read-only financial and project-related data from QuickBooks Online and other internal systems in order to generate reports and dashboards for operational use.
+
+The Application is provided exclusively for the internal business purposes of All Matters Construction.
+
+2. Authorized Users
+
+Use of the Application is restricted to authorized employees and personnel of All Matters Construction, including:
+
+Owners
+
+Project Managers
+
+Company General Manager
+
+Designated IT administrators
+
+No other individuals or parties are permitted to access or use the Application.
+
+3. License Grant
+
+The Company grants Users a limited, non-transferable, non-exclusive license to use the Application solely for internal business operations.
+
+Users may not:
+
+Distribute, publish, or share the Application externally
+
+Copy or reproduce the Application except as necessary for authorized internal use
+
+Reverse engineer, modify, or create derivative works
+
+Use the Application for any illegal or unauthorized purpose
+
+4. Data Access and Use
+
+The Application accesses the following categories of internal Company data:
+
+Invoices
+
+Bills
+
+Expenses
+
+Payments
+
+Estimates
+
+Basic customer information
+
+Project and job-related data
+
+The Application is read-only and does not modify data in QuickBooks Online or any other system.
+
+Users must handle all accessed data as confidential and may only use it for authorized business purposes.
+
+5. Security Requirements
+
+Users agree to:
+
+Maintain the confidentiality of their login credentials
+
+Prevent unauthorized access to the Application
+
+Use the Application only on Company-approved devices and networks
+
+Comply with all internal security and IT policies
+
+The Company may monitor usage and audit access to ensure compliance.
+
+6. Data Storage
+
+The Application stores retrieved data in a local encrypted database located on an internal Windows server or workstation.
+
+No data is transmitted to third parties outside of the Company’s environment except for internal reporting tools such as Power BI.
+
+7. No Warranty
+
+The Application is provided “as is” without any warranty of any kind, including but not limited to implied warranties of:
+
+Performance
+
+Accuracy
+
+Fitness for a particular purpose
+
+Non-infringement
+
+The Company does not guarantee uninterrupted operation or error-free performance.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by law, All Matters Construction shall not be liable for any indirect, incidental, consequential, or special damages arising out of or in connection with the use of the Application.
+
+9. Termination
+
+The Company may revoke access to the Application at any time for any reason, including violation of this Agreement or internal policies.
+
+Upon termination, Users must immediately cease using the Application.
+
+10. Updates
+
+The Company may update, modify, or discontinue the Application at its discretion. Continued use after updates constitutes acceptance of the updated terms.
+
+11. Contact Information
+
+For questions or issues related to this Agreement or the Application, please contact:
+
+All Matters Construction – IT Department
+Email: it@allmattersgc.com
